@@ -1,0 +1,6 @@
+Archive: jammy
+Version: 22.04
+Component: restricted
+Origin: Ubuntu
+Label: Ubuntu
+Architecture: i386

@@ -1,0 +1,2 @@
+#define DISKNAME  RTbuntu 22.04 "Custom Jammy Jellyfish"
+#define DISKNOTE  Generated using Cubic version 2022.12.74 on 2023-02-12 21:27 based on ubuntu-22.04.1-desktop-amd64(2).iso

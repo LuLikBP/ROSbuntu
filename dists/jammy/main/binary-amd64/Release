@@ -1,0 +1,6 @@
+Archive: jammy
+Version: 22.04
+Component: main
+Origin: Ubuntu
+Label: Ubuntu
+Architecture: amd64
